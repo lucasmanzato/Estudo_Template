@@ -18,3 +18,7 @@ public class Main {
         pedido3.processarPedido();
     }
 }
+
+//O padrão Template define o esqueleto de um algoritmo, deixando para as subclasses 
+//a implementação de certos passos, enquanto o Decorator adiciona novas funcionalidades
+//a objetos existentes em tempo de execução sem alterar sua estrutura.
